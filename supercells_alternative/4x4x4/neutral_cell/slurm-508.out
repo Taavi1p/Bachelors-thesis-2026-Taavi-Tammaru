@@ -1,0 +1,262 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-localhost: error: *** JOB 508 ON localhost CANCELLED AT 2024-11-04T14:35:19 DUE TO TIME LIMIT ***
+slurmstepd-localhost: error: *** STEP 508.0 ON localhost CANCELLED AT 2024-11-04T14:35:19 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Imageì¥‹µ½ÃœõÏ?ìÑñgNA…ğ4Gµ½©Àí¬)¿İâM!ÚP)¿|“«¬fNAò~®ÒPÁÉ¡JÒPAŞÚÀšPA’ÕVÖnÁ;óÕnAÒ¡î&µ½Ü:ÿånÁB°‘•+‡¿õ(–nA'§Ù÷¿a†?Şˆ¥ånAÆp2–nA‰áã5½iÁH‚	~FA~Zã}FAnjR
+~FÁã‹5½iAT³#ã}FA¶w·$~FÁñ…î#~FAËÚ,ß¼iAİcTå÷ÅÁÊÄ7`Ã¦¿íC<“œ°½X””÷
+¦?s©!å÷ÅAc"gaè˜°½ÂL1â´u#¿`;C½w!¿ÊzJÈöÅAh6%t­Á)Tî$t­A¶i9èr­A¹³j,ªŒ
+ÁkXÚ+ªŒ
+AväÒA›°½£0~ªŒ
+ÁŒ*şIö& ¿”=˜¹¨Œ
+AúK8 ?à—´}ªŒ
+AÍ ­¹¨Œ
+A0ûk)ûÁZôÆ§6¤ö@Gê¼Ê5¤ö@fşú¨6¤öÀ…›¾k)ûA}şËÊ5¤ö@Ör´27¤öÀÆî17¤ö@0Æ‰m(ûAÙ-¯H
+Á°Òÿµ¿•²öùæ©½Ã½‘¦—No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000007114E642520  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000136C26A42520  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000D3CBCA42520  Unknown               Unknown  Unknown
+libc.so.6          00000D3CBCB25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000D3CBAC18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000D3CBAC16974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000D3CBAC2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000D3CBAC12B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00001496ABA42520  Unknown               Unknown  Unknown
+libc.so.6          00001496ABB25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00001496A9C18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00001496A9C16974  Unknown               Unknown  Unknown
+libtcp-fi.so       00001496A9C2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00001496A9C12B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000ECC8E442520  Unknown               Unknown  Unknown
+libc.so.6          00000ECC8E525DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000ECC8C618DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000ECC8C616974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000ECC8C62DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000ECC8C612B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000B46A4642520  Unknown               Unknown  Unknown
+libc.so.6          00000B46A4725DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000B46A2818DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B46A2816974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B46A282DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B46A2812B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000005A880042520  Unknown               Unknown  Unknown
+libc.so.6          000005A880125DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000005A87E218DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000005A87E216974  Unknown               Unknown  Unknown
+libtcp-fi.so       000005A87E22DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000005A87E212B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000014810B842520  Unknown               Unknown  Unknown
+libc.so.6          000014810B925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000148109A18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000148109A16974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000148109A2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000148109A12B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000123B9D842520  Unknown               Unknown  Unknown
+libc.so.6          0000123B9D925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000123B9BA18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000123B9BA16974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000123B9BA2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000123B9BA12B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000121F60842520  Unknown               Unknown  Unknown
+libc.so.6          0000121F60925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000121F5EA18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000121F5EA16974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000121F5EA2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000121F5EA12B09  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000560ACA42520  Unknown               Unknown  Unknown
+libc.so.6          00000560ACB25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000560AAC18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000560AAC16974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000560AAC2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000560AAC12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000560ADA0ED06  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000008C1F1A42520  Unknown               Unknown  Unknown
+libc.so.6          000008C1F1B25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000008C1EFC18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000008C1EFC16974  Unknown               Unknown  Unknown
+libtcp-fi.so       000008C1EFC2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000008C1EFC12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000008C1F2A0ED06  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000151016E42520  Unknown               Unknown  Unknown
+libc.so.6          0000151016F25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000151015018DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000151015016974  Unknown               Unknown  Unknown
+libtcp-fi.so       000015101502DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000151015012B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151017E0ED06  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000006E22A242520  Unknown               Unknown  Unknown
+libc.so.6          000006E22A325DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000006E228418DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000006E228416974  Unknown               Unknown  Unknown
+libtcp-fi.so       000006E22842DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000006E228412B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006E22B20ED06  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00001286E3442520  Unknown               Unknown  Unknown
+libc.so.6          00001286E3525DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00001286E1618DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00001286E1616974  Unknown               Unknown  Unknown
+libtcp-fi.so       00001286E162DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00001286E1612B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001286E440ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001286E412A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001286E412A601  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00001068C9842520  Unknown               Unknown  Unknown
+libc.so.6          00001068C9925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00001068C7A18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00001068C7A16974  Unknown               Unknown  Unknown
+libtcp-fi.so       00001068C7A2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00001068C7A12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001068CA80ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001068CA52A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001068CA52A601  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000FC98A442520  Unknown               Unknown  Unknown
+libc.so.6          00000FC98A525DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000FC988618DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000FC988616974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000FC98862DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000FC988612B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000FC98B40ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000FC98B12A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000FC98B12A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000FC98B4B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000B5F53242520  Unknown               Unknown  Unknown
+libc.so.6          00000B5F53325DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000B5F51418DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B5F51416974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B5F5142DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000B5F51412B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000B5F5420ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000B5F53F2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000B5F53F2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000B5F542B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000005B7F1842520  Unknown               Unknown  Unknown
+libc.so.6          000005B7F1925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000005B7EFA18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000005B7EFA16974  Unknown               Unknown  Unknown
+libtcp-fi.so       000005B7EFA2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000005B7EFA12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000005B7F280ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000005B7F252A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000005B7F252A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000005B7F28B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000A4C95242520  Unknown               Unknown  Unknown
+libc.so.6          00000A4C95325DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000A4C93418DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000A4C93416974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000A4C9342DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000A4C93412B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000A4C9620ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000A4C95F2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000A4C95F2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000A4C962B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000141B0E642520  Unknown               Unknown  Unknown
+libc.so.6          0000141B0E725DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000141B0C818DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000141B0C816974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000141B0C82DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000141B0C812B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000141B0F60ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000141B0F32A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000141B0F32A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000141B0F6B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000132CFBE42520  Unknown               Unknown  Unknown
+libc.so.6          0000132CFBF25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000132CFA018DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000132CFA016974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000132CFA02DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000132CFA012B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000132CFCE0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000132CFCB2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000132CFCB2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000132CFCEB35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000011914EA42520  Unknown               Unknown  Unknown
+libc.so.6          000011914EB25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000011914CC18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000011914CC16974  Unknown               Unknown  Unknown
+libtcp-fi.so       000011914CC2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000011914CC12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011914FA0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011914F72A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011914F72A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011914FAB35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000130949042520  Unknown               Unknown  Unknown
+libc.so.6          0000130949125DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000130947218DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000130947216974  Unknown               Unknown  Unknown
+libtcp-fi.so       000013094722DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000130947212B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000013094A00ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000130949D2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000130949D2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000013094A0B35A0  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000771F6E42520  Unknown               Unknown  Unknown
+libc.so.6          00000771F6F25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00000771F5018DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00000771F5016974  Unknown               Unknown  Unknown
+libtcp-fi.so       00000771F502DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00000771F5012B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000771F7E0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000771F7B2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000771F7B2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000771F7EB35A0  Unknown               Unknown  Unknown
+No errorsrun: got SIGCONT
+srun: forcing job termination
