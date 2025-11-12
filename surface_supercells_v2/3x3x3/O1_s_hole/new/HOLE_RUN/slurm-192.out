@@ -1,0 +1,832 @@
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart072
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000B2224829D90  Unknown               Unknown  Unknown
+libc.so.6          00000B2224829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart073
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000149530A29D90  Unknown               Unknown  Unknown
+libc.so.6          0000149530A29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart074
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000106F84C29D90  Unknown               Unknown  Unknown
+libc.so.6          0000106F84C29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart078
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000FABEA429D90  Unknown               Unknown  Unknown
+libc.so.6          00000FABEA429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart079
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000125E6A029D90  Unknown               Unknown  Unknown
+libc.so.6          0000125E6A029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart088
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000093817829D90  Unknown               Unknown  Unknown
+libc.so.6          0000093817829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart089
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000FE36AA29D90  Unknown               Unknown  Unknown
+libc.so.6          00000FE36AA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart091
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000B14CDA29D90  Unknown               Unknown  Unknown
+libc.so.6          00000B14CDA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart093
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000011C056229D90  Unknown               Unknown  Unknown
+libc.so.6          000011C056229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart094
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000133EDEA29D90  Unknown               Unknown  Unknown
+libc.so.6          0000133EDEA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart120
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000013882B029D90  Unknown               Unknown  Unknown
+libc.so.6          000013882B029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart121
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000C30FD229D90  Unknown               Unknown  Unknown
+libc.so.6          00000C30FD229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart122
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000092D80029D90  Unknown               Unknown  Unknown
+libc.so.6          0000092D80029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart124
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000A0681429D90  Unknown               Unknown  Unknown
+libc.so.6          00000A0681429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart125
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000E497F029D90  Unknown               Unknown  Unknown
+libc.so.6          00000E497F029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart126
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000081E5F629D90  Unknown               Unknown  Unknown
+libc.so.6          0000081E5F629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart064
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000008E523C29D90  Unknown               Unknown  Unknown
+libc.so.6          000008E523C29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart065
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000006F119629D90  Unknown               Unknown  Unknown
+libc.so.6          000006F119629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart066
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000150265429D90  Unknown               Unknown  Unknown
+libc.so.6          0000150265429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart067
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000563B8829D90  Unknown               Unknown  Unknown
+libc.so.6          00000563B8829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart068
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000059478A29D90  Unknown               Unknown  Unknown
+libc.so.6          0000059478A29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart069
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000119F7BE29D90  Unknown               Unknown  Unknown
+libc.so.6          0000119F7BE29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart070
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000063CE9829D90  Unknown               Unknown  Unknown
+libc.so.6          0000063CE9829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart071
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000060E48229D90  Unknown               Unknown  Unknown
+libc.so.6          0000060E48229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart075
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000008BF1C229D90  Unknown               Unknown  Unknown
+libc.so.6          000008BF1C229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart076
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000124F2EE29D90  Unknown               Unknown  Unknown
+libc.so.6          0000124F2EE29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart077
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000011F818029D90  Unknown               Unknown  Unknown
+libc.so.6          000011F818029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart080
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000009021E229D90  Unknown               Unknown  Unknown
+libc.so.6          000009021E229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart081
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000015486E429D90  Unknown               Unknown  Unknown
+libc.so.6          000015486E429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart082
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000011D214A29D90  Unknown               Unknown  Unknown
+libc.so.6          000011D214A29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart083
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001000AFC29D90  Unknown               Unknown  Unknown
+libc.so.6          00001000AFC29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart084
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000E2D56E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000E2D56E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart085
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000121B3FC29D90  Unknown               Unknown  Unknown
+libc.so.6          0000121B3FC29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart086
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000DC246029D90  Unknown               Unknown  Unknown
+libc.so.6          00000DC246029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart087
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000008D4B8829D90  Unknown               Unknown  Unknown
+libc.so.6          000008D4B8829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart090
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001019BE429D90  Unknown               Unknown  Unknown
+libc.so.6          00001019BE429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart092
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000D456B229D90  Unknown               Unknown  Unknown
+libc.so.6          00000D456B229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart095
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000D2500629D90  Unknown               Unknown  Unknown
+libc.so.6          00000D2500629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart096
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000E4C46E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000E4C46E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart097
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000009CAD9A29D90  Unknown               Unknown  Unknown
+libc.so.6          000009CAD9A29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart098
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000A0B39429D90  Unknown               Unknown  Unknown
+libc.so.6          00000A0B39429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart099
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000C014C629D90  Unknown               Unknown  Unknown
+libc.so.6          00000C014C629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart100
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000A664C029D90  Unknown               Unknown  Unknown
+libc.so.6          00000A664C029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart101
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001238B7829D90  Unknown               Unknown  Unknown
+libc.so.6          00001238B7829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart102
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000AFD3DA29D90  Unknown               Unknown  Unknown
+libc.so.6          00000AFD3DA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart103
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000012AA39A29D90  Unknown               Unknown  Unknown
+libc.so.6          000012AA39A29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart104
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000006BB6E629D90  Unknown               Unknown  Unknown
+libc.so.6          000006BB6E629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart105
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000634C9E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000634C9E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart106
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000A5747629D90  Unknown               Unknown  Unknown
+libc.so.6          00000A5747629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart107
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001236A0829D90  Unknown               Unknown  Unknown
+libc.so.6          00001236A0829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart108
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000DF7E0E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000DF7E0E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart109
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000A9F8DA29D90  Unknown               Unknown  Unknown
+libc.so.6          00000A9F8DA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart110
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000C5246229D90  Unknown               Unknown  Unknown
+libc.so.6          00000C5246229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart111
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000E42CDE29D90  Unknown               Unknown  Unknown
+libc.so.6          00000E42CDE29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart112
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000FA3C7E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000FA3C7E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart113
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000EE8AB229D90  Unknown               Unknown  Unknown
+libc.so.6          00000EE8AB229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart114
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000ABAF0E29D90  Unknown               Unknown  Unknown
+libc.so.6          00000ABAF0E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart115
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000006C5DDC29D90  Unknown               Unknown  Unknown
+libc.so.6          000006C5DDC29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart116
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000012A9B0029D90  Unknown               Unknown  Unknown
+libc.so.6          000012A9B0029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart117
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000B855A629D90  Unknown               Unknown  Unknown
+libc.so.6          00000B855A629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart118
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000007B15EE29D90  Unknown               Unknown  Unknown
+libc.so.6          000007B15EE29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart119
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000014E661629D90  Unknown               Unknown  Unknown
+libc.so.6          000014E661629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart123
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000E02D6029D90  Unknown               Unknown  Unknown
+libc.so.6          00000E02D6029E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 7, file /home/taavi/TiO2/surface_supercells/3x3x3/O1_s_hole/new/HOLE_RUN/restart127
+Image              PC                Routine            Line        Source             
+aims.240605.scala  0000000003FF0E84  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC6D5B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000949EC0  Unknown               Unknown  Unknown
+aims.240605.scala  00000000004146CE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001056DB229D90  Unknown               Unknown  Unknown
+libc.so.6          00001056DB229E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown

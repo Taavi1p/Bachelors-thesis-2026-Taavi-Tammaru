@@ -1,0 +1,60 @@
+ *** Proc   20 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 20 (rank 20 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 20
+ *** Proc   25 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 25 (rank 25 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 25
+ *** Proc    1 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+ *** Proc    6 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 6 (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 6
+ *** Proc    7 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 7 (rank 7 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 7
+ *** Proc   12 in read_geo: Non-existent species definition found while reading geometry.in
+ *** Proc   13 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 13 (rank 13 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 13
+ *** Proc   16 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 16 (rank 16 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 16
+ *** Proc   17 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 17 (rank 17 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 17
+ *** Proc   18 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 18 (rank 18 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 18
+ *** Proc   19 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 19 (rank 19 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 19
+ *** Proc   21 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 21 (rank 21 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 21
+ *** Proc   22 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 22 (rank 22 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 22
+ *** Proc   23 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 23 (rank 23 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 23
+ *** Proc   24 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 24 (rank 24 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 24
+ *** Proc   26 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 26 (rank 26 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 26
+ *** Proc   27 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 27 (rank 27 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 27
+ *** Proc   28 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 28 (rank 28 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 28
+ *** Proc   29 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 29 (rank 29 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 29
+ *** Proc   30 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 30 (rank 30 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 30
+ *** Proc   31 in read_geo: Non-existent species definition found while reading geometry.in
+ 
+Abort(0) on node 31 (rank 31 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 0) - process 31

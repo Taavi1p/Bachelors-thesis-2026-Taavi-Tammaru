@@ -1,0 +1,123 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-localhost: error: *** JOB 1172 ON localhost CANCELLED AT 2024-12-17T01:52:09 DUE TO TIME LIMIT ***
+slurmstepd-localhost: error: *** STEP 1172.0 ON localhost CANCELLED AT 2024-12-17T01:52:09 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+No errorsrun: got SIGCONT
+srun: forcing job termination

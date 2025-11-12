@@ -1,0 +1,7 @@
+#!/bin/bash
+#SBATCH --job-name=eca_4x_neutral
+#SBATCH --ntasks=32
+#SBATCH --time=24:00:00
+
+# Your job commands go here
+mpirun -np 32 aims.x > out
