@@ -1,0 +1,96 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-localhost: error: *** JOB 1679 ON localhost CANCELLED AT 2025-03-17T18:06:05 DUE TO TIME LIMIT ***
+slurmstepd-localhost: error: *** STEP 1679.0 ON localhost CANCELLED AT 2025-03-17T18:06:05 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000012D6F1442520  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000BEA0A842520  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000B5C9EE42520  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000007DDC3442520  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007DDC4169AF6  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007DDC4168EC8  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000010E7A1842520  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000010E7A2569C06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000010E7A2568EC8  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000010E7A24A5D55  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000110DB7442520  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000AE1380  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000C3A72C  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC9C1F  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000752DD0  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000110DB7429D90  Unknown               Unknown  Unknown
+libc.so.6          0000110DB7429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000F934B842520  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000F934C569AF6  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000F934C568EC8  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000F934C4A5D55  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000F934C45F789  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000007FF25442520  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007FF26169C06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007FF26168EC8  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007FF260A5D55  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007FF2605F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000007FF2617936A  Unknown               Unknown  Unknown
+No errorforrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000F4901642520  Unknown               Unknown  Unknown
+libmkl_def.so.2    00000F4462F1F1A5  mkl_blas_def_dgem     Unknown  Unknown
+libmkl_def.so.2    00000F4462F4BF9E  mkl_blas_def_xdge     Unknown  Unknown
+libmkl_def.so.2    00000F4462F463E3  mkl_blas_def_xdge     Unknown  Unknown
+libmkl_def.so.2    00000F4462F548F2  mkl_blas_def_xdsy     Unknown  Unknown
+libmkl_def.so.2    00000F4462F545F9  mkl_blas_def_xdsy     Unknown  Unknown
+libmkl_intel_lp64  00000F490A79E2CE  DSYMM                 Unknown  Unknown
+aims.240605.scala  00000000018A3981  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000C3DBEE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BC9C1F  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000752DD0  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000F4901629D90  Unknown               Unknown  Unknown
+libc.so.6          00000F4901629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+srun: got SIGCONT
+srun: forcing job termination

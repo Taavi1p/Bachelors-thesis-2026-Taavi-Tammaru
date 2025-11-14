@@ -1,0 +1,204 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd-localhost: error: *** STEP 1667.0 ON localhost CANCELLED AT 2025-03-15T16:46:19 ***
+forrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorforrtl: error (78): process killed (SIGTERM)
+No errorslurmstepd-localhost: error: *** JOB 1667 ON localhost CANCELLED AT 2025-03-15T16:46:19 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000148E09C42520  Unknown               Unknown  Unknown
+libmkl_def.so.2    000014896B65EEEB  mkl_blas_def_zgem     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000F1D6B242520  Unknown               Unknown  Unknown
+libmkl_def.so.2    00000F18CCC5EF0B  mkl_blas_def_zgem     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000D2D35242520  Unknown               Unknown  Unknown
+libmkl_def.so.2    00000D2896C5EF0B  mkl_blas_def_zgem     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000107D83E42520  Unknown               Unknown  Unknown
+libmkl_def.so.2    00001078E585EEEB  mkl_blas_def_zgem     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00000BD16D642520  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E71BDA1  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E713358  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E32A396  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E32A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E6B35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E0E7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E27C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E25F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E378AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000BD16E14664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00000BD16FAE4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00000BD16D629D90  Unknown               Unknown  Unknown
+libc.so.6          00000BD16D629E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00001020E6C42520  Unknown               Unknown  Unknown
+libc.so.6          00001020E6D25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       00001020E4E18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       00001020E4E16974  Unknown               Unknown  Unknown
+libtcp-fi.so       00001020E4E2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       00001020E4E12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E7C0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E792A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E792A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E7CB35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E76E7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E787C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E785F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E7978AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001020E774664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00001020E90E4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          00001020E6C29D90  Unknown               Unknown  Unknown
+libc.so.6          00001020E6C29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000111997842520  Unknown               Unknown  Unknown
+libc.so.6          0000111997925DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000111995A18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000111995A16974  Unknown               Unknown  Unknown
+libtcp-fi.so       0000111995A2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000111995A12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199880ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199852A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199852A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001119988B35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001119982E7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199847C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199845F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000111998578AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000011199834664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  0000111999CE4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000111997829D90  Unknown               Unknown  Unknown
+libc.so.6          0000111997829E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000006AEF8E42520  Unknown               Unknown  Unknown
+libc.so.6          000006AEF8F25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000006AEF7018DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000006AEF7016974  Unknown               Unknown  Unknown
+libtcp-fi.so       000006AEF702DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000006AEF7012B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9E0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9B2A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9B2A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9EB35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF98E7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9A7C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9A5F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF9B78AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006AEF994664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  000006AEFB2E4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000006AEF8E29D90  Unknown               Unknown  Unknown
+libc.so.6          000006AEF8E29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000014D74BA42520  Unknown               Unknown  Unknown
+libc.so.6          000014D74BB25DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       000014D749C18DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       000014D749C16974  Unknown               Unknown  Unknown
+libtcp-fi.so       000014D749C2DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       000014D749C12B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74CA0ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C72A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C72A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74CAB35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C4E7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C67C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C65F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C778AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D74C54664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  000014D74DEE4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          000014D74BA29D90  Unknown               Unknown  Unknown
+libc.so.6          000014D74BA29E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000066143442520  Unknown               Unknown  Unknown
+libc.so.6          0000066143525DEA  epoll_wait            Unknown  Unknown
+libtcp-fi.so       0000066141618DFC  Unknown               Unknown  Unknown
+libtcp-fi.so       0000066141616974  Unknown               Unknown  Unknown
+libtcp-fi.so       000006614162DA82  Unknown               Unknown  Unknown
+libtcp-fi.so       0000066141612B09  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006614440ED06  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006614412A357  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006614412A601  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00000661444B35A0  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000066143EE7958  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006614407C62B  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000006614405F789  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000066144178AE2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000066143F4664D  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00000661458E4B25  mpi_allreduce_        Unknown  Unknown
+aims.240605.scala  0000000002A193FF  Unknown               Unknown  Unknown
+aims.240605.scala  0000000002AE47EE  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000BFF826  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000769579  Unknown               Unknown  Unknown
+aims.240605.scala  00000000007519C8  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000414B1B  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DE7  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000415B30  Unknown               Unknown  Unknown
+aims.240605.scala  0000000000413DBD  Unknown               Unknown  Unknown
+libc.so.6          0000066143429D90  Unknown               Unknown  Unknown
+libc.so.6          0000066143429E40  __libc_start_main     Unknown  Unknown
+aims.240605.scala  0000000000413CD5  Unknown               Unknown  Unknown
+srun: forcing job termination
